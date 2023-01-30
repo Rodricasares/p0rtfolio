@@ -1,0 +1,17 @@
+.headOne {
+    margin-top: 65px;
+    color: aliceblue;
+    font-family: "Anton", sans-serif;
+    font-size: 90px;
+  }
+  
+  .headTwo {
+    color: aliceblue;
+    font-size: 45px;
+  }
+  
+  .typical {
+    color: #f2ce55;
+    font-family: "Spline Sans Mono", monospace;
+  }
+  
